@@ -12,3 +12,13 @@ A simple image captcha genrator
 ![image](https://user-images.githubusercontent.com/39544459/137623915-1e837ada-f199-4513-a15d-ecbb969fd53e.png)
 
 ## *Mayur Singal*  
+
+##Запуск проекту
+
+1. Встановіть залежності 
+python -m pip install -r requirements.txt
+
+2. Запустіть генератор капчі
+python Captcha_Genrator.py
+
+3. Файл капчі з'явиться в папці проекту.
